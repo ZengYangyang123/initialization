@@ -1,0 +1,2566 @@
+{
+  "__v_isShallow": true,
+  "__v_isRef": true,
+  "_rawValue": {
+    "code": 0,
+    "data": {
+      "count": 24,
+      "rows": [
+        {
+          "id": 1000064,
+          "name": "Beehive 新手引导",
+          "parent_id": 0,
+          "manager_id": 1,
+          "project_template_id": 18,
+          "progress": 6,
+          "cover": "https://i.picsum.photos/id/399/290/160.jpg?hmac=3xULt6wNyF5o6cyMNb9Whr8XKjwrGAGKErAeJyDjKVQ",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 1,
+          "state": 1,
+          "intro": "新手引导项目",
+          "created_at": "2021-09-13 01:37:50",
+          "updated_at": "2021-09-13 01:53:23",
+          "creator": {
+            "username": "admin",
+            "id": 1,
+            "avatar": "https://qiniucdn.imfdj.top/avatar.jpg"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 1,
+              "user_id_github": 0,
+              "username": "admin",
+              "department_id": null,
+              "nickname": "管理员",
+              "email": "11@qq.com",
+              "state": 1,
+              "phone": "18686868686",
+              "avatar": "https://qiniucdn.imfdj.top/avatar.jpg",
+              "company": "",
+              "city": "",
+              "last_login": "2022-09-27 11:14:13",
+              "created_at": "2020-07-13 10:23:03",
+              "updated_at": "2022-09-27 11:14:13",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 109,
+                "user_id": 1,
+                "project_id": 1000064,
+                "created_at": "2021-09-13 01:37:50",
+                "updated_at": "2021-09-13 01:37:50"
+              }
+            },
+            {
+              "id": 2,
+              "user_id_github": 0,
+              "username": "root",
+              "department_id": null,
+              "nickname": "请问",
+              "email": "9077@qq.com",
+              "state": 1,
+              "phone": "13993841298",
+              "avatar": "https://qiniucdn.imfdj.top/avatar.jpg",
+              "company": "一日看尽长安花",
+              "city": "武汉",
+              "last_login": "2021-09-17 13:26:30",
+              "created_at": "2020-07-26 03:54:59",
+              "updated_at": "2023-05-08 08:46:33",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 110,
+                "user_id": 2,
+                "project_id": 1000064,
+                "created_at": "2021-09-13 01:38:34",
+                "updated_at": "2021-09-13 01:38:34"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000068,
+          "name": "4-20",
+          "parent_id": 0,
+          "manager_id": 15,
+          "project_template_id": 27,
+          "progress": 36,
+          "cover": "/public/uploads/20230420052917_587426307.jpg",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 0,
+          "state": 1,
+          "intro": "haode",
+          "created_at": "2023-04-24 05:29:30",
+          "updated_at": "2023-05-04 18:31:16",
+          "creator": {
+            "username": "18869444143",
+            "id": 15,
+            "avatar": "https://fastly.picsum.photos/id/455/100/100.jpg?hmac=evc36T2tC-VSutrKiRyUxsXAI9gQ-pAgRO-YtHCN_K4"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 15,
+              "user_id_github": 0,
+              "username": "18869444143",
+              "department_id": null,
+              "nickname": "",
+              "email": "903709627@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/455/100/100.jpg?hmac=evc36T2tC-VSutrKiRyUxsXAI9gQ-pAgRO-YtHCN_K4",
+              "company": "",
+              "city": "",
+              "last_login": "2023-05-19 19:08:04",
+              "created_at": "2023-04-17 10:25:32",
+              "updated_at": "2023-05-19 19:08:04",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 114,
+                "user_id": 15,
+                "project_id": 1000068,
+                "created_at": "2023-04-20 17:29:30",
+                "updated_at": "2023-04-20 17:29:30"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000076,
+          "name": "小酒馆 | 消除通勤车厢中的烦闷",
+          "parent_id": 0,
+          "manager_id": 22,
+          "project_template_id": 3,
+          "progress": 70,
+          "cover": "/public/uploads/20230420131725_199104173.jpg",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 0,
+          "state": 1,
+          "intro": "适逢其会",
+          "created_at": "2023-04-28 01:20:44",
+          "updated_at": "2023-04-30 17:12:43",
+          "creator": {
+            "username": "ysh_happy",
+            "id": 22,
+            "avatar": "https://fastly.picsum.photos/id/301/100/100.jpg?hmac=p-YZa0eopQZ1AmyQTNK3qTUtQ5BNpORoGMbhyrdbkvk"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 22,
+              "user_id_github": 0,
+              "username": "ysh_happy",
+              "department_id": null,
+              "nickname": "",
+              "email": "1733768492@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/301/100/100.jpg?hmac=p-YZa0eopQZ1AmyQTNK3qTUtQ5BNpORoGMbhyrdbkvk",
+              "company": "",
+              "city": "",
+              "last_login": "2023-05-08 08:47:12",
+              "created_at": "2023-04-17 22:27:47",
+              "updated_at": "2023-05-08 08:47:12",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 123,
+                "user_id": 22,
+                "project_id": 1000076,
+                "created_at": "2023-04-21 01:20:44",
+                "updated_at": "2023-04-21 01:20:44"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000079,
+          "name": "aAA",
+          "parent_id": 0,
+          "manager_id": 15,
+          "project_template_id": 18,
+          "progress": 85,
+          "cover": "/public/uploads/20230422084102_620348546.jpg",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 0,
+          "state": 1,
+          "intro": "",
+          "created_at": "2023-04-27 20:41:06",
+          "updated_at": "2023-04-28 14:40:23",
+          "creator": {
+            "username": "18869444143",
+            "id": 15,
+            "avatar": "https://fastly.picsum.photos/id/455/100/100.jpg?hmac=evc36T2tC-VSutrKiRyUxsXAI9gQ-pAgRO-YtHCN_K4"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 15,
+              "user_id_github": 0,
+              "username": "18869444143",
+              "department_id": null,
+              "nickname": "",
+              "email": "903709627@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/455/100/100.jpg?hmac=evc36T2tC-VSutrKiRyUxsXAI9gQ-pAgRO-YtHCN_K4",
+              "company": "",
+              "city": "",
+              "last_login": "2023-05-19 19:08:04",
+              "created_at": "2023-04-17 10:25:32",
+              "updated_at": "2023-05-19 19:08:04",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 126,
+                "user_id": 15,
+                "project_id": 1000079,
+                "created_at": "2023-04-22 20:41:07",
+                "updated_at": "2023-04-22 20:41:07"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000106,
+          "name": "不良人",
+          "parent_id": 0,
+          "manager_id": 12,
+          "project_template_id": 1,
+          "progress": 0,
+          "cover": "/public/uploads/20230426023444_086709396.jpg",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 1,
+          "state": 1,
+          "intro": "",
+          "created_at": "2023-05-01 14:35:02",
+          "updated_at": "2023-04-28 19:21:19",
+          "creator": {
+            "username": "冰冰不爱吃香菜",
+            "id": 12,
+            "avatar": "https://fastly.picsum.photos/id/1082/100/100.jpg?hmac=0rTbHjwuEo-KpMp2E4aCa2JWXFT_FPh6cqJwhTxcZl4"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 12,
+              "user_id_github": 0,
+              "username": "冰冰不爱吃香菜",
+              "department_id": null,
+              "nickname": "",
+              "email": "2200411319@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/1082/100/100.jpg?hmac=0rTbHjwuEo-KpMp2E4aCa2JWXFT_FPh6cqJwhTxcZl4",
+              "company": "",
+              "city": "",
+              "last_login": "2023-05-18 01:56:56",
+              "created_at": "2023-04-19 10:18:15",
+              "updated_at": "2023-05-18 01:56:56",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 148,
+                "user_id": 12,
+                "project_id": 1000106,
+                "created_at": "2023-04-26 14:35:02",
+                "updated_at": "2023-04-26 14:35:02"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000121,
+          "name": "7897979797979797987979797979797987987979798797987",
+          "parent_id": 0,
+          "manager_id": 10,
+          "project_template_id": 1,
+          "progress": 1,
+          "cover": "/public/uploads/20230426063121_652708382.jpg",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 0,
+          "state": 1,
+          "intro": "79879878979897987979797979878979797979797979797798797987979879987979",
+          "created_at": "2023-04-27 18:31:46",
+          "updated_at": "2023-04-27 11:02:58",
+          "creator": {
+            "username": "HeCY",
+            "id": 10,
+            "avatar": "https://fastly.picsum.photos/id/604/100/100.jpg?hmac=oV7jhSL2Jv9PhlC8zJYg73ezAoN6kCwsd0ONe86J6PY"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 10,
+              "user_id_github": 0,
+              "username": "HeCY",
+              "department_id": 1000336,
+              "nickname": "在昵称这里写你的名字？",
+              "email": "2684934989@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/604/100/100.jpg?hmac=oV7jhSL2Jv9PhlC8zJYg73ezAoN6kCwsd0ONe86J6PY",
+              "company": "",
+              "city": "",
+              "last_login": "2023-05-08 08:37:20",
+              "created_at": "2023-04-17 10:17:54",
+              "updated_at": "2023-05-10 22:38:08",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 163,
+                "user_id": 10,
+                "project_id": 1000121,
+                "created_at": "2023-04-26 18:31:46",
+                "updated_at": "2023-04-26 18:31:46"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000131,
+          "name": "啊啊啊",
+          "parent_id": 0,
+          "manager_id": 15,
+          "project_template_id": 17,
+          "progress": 0,
+          "cover": "/public/uploads/20230426074230_515765254.jpg",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 0,
+          "state": 1,
+          "intro": "啊啊啊",
+          "created_at": "2023-04-28 07:42:46",
+          "updated_at": "2023-04-28 14:11:16",
+          "creator": {
+            "username": "18869444143",
+            "id": 15,
+            "avatar": "https://fastly.picsum.photos/id/455/100/100.jpg?hmac=evc36T2tC-VSutrKiRyUxsXAI9gQ-pAgRO-YtHCN_K4"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 15,
+              "user_id_github": 0,
+              "username": "18869444143",
+              "department_id": null,
+              "nickname": "",
+              "email": "903709627@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/455/100/100.jpg?hmac=evc36T2tC-VSutrKiRyUxsXAI9gQ-pAgRO-YtHCN_K4",
+              "company": "",
+              "city": "",
+              "last_login": "2023-05-19 19:08:04",
+              "created_at": "2023-04-17 10:25:32",
+              "updated_at": "2023-05-19 19:08:04",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 173,
+                "user_id": 15,
+                "project_id": 1000131,
+                "created_at": "2023-04-26 19:42:46",
+                "updated_at": "2023-04-26 19:42:46"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000163,
+          "name": "dw22082",
+          "parent_id": 0,
+          "manager_id": 10,
+          "project_template_id": 1,
+          "progress": 1,
+          "cover": "/public/uploads/20230426225924_886023117.jpg",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 0,
+          "state": 1,
+          "intro": "77777777888888889999999991111111222222233333333789797979797979",
+          "created_at": "2023-04-28 11:00:21",
+          "updated_at": "2023-04-27 14:17:31",
+          "creator": {
+            "username": "HeCY",
+            "id": 10,
+            "avatar": "https://fastly.picsum.photos/id/604/100/100.jpg?hmac=oV7jhSL2Jv9PhlC8zJYg73ezAoN6kCwsd0ONe86J6PY"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 10,
+              "user_id_github": 0,
+              "username": "HeCY",
+              "department_id": 1000336,
+              "nickname": "在昵称这里写你的名字？",
+              "email": "2684934989@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/604/100/100.jpg?hmac=oV7jhSL2Jv9PhlC8zJYg73ezAoN6kCwsd0ONe86J6PY",
+              "company": "",
+              "city": "",
+              "last_login": "2023-05-08 08:37:20",
+              "created_at": "2023-04-17 10:17:54",
+              "updated_at": "2023-05-10 22:38:08",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 199,
+                "user_id": 10,
+                "project_id": 1000163,
+                "created_at": "2023-04-27 11:00:21",
+                "updated_at": "2023-04-27 11:00:21"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000179,
+          "name": "pander",
+          "parent_id": 0,
+          "manager_id": 27,
+          "project_template_id": 38,
+          "progress": 80,
+          "cover": "/public/uploads/20230427004852_572082287.jpg",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 0,
+          "state": 1,
+          "intro": "7788",
+          "created_at": "2023-04-27 12:49:03",
+          "updated_at": "2023-04-28 17:06:35",
+          "creator": {
+            "username": "cgy",
+            "id": 27,
+            "avatar": "https://fastly.picsum.photos/id/798/100/100.jpg?hmac=fUsZTZiMfWZCnqg-hcR2ICUKjl7qG7-cqF-1tLL98Vk"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 27,
+              "user_id_github": 0,
+              "username": "cgy",
+              "department_id": null,
+              "nickname": "",
+              "email": "859854649@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/798/100/100.jpg?hmac=fUsZTZiMfWZCnqg-hcR2ICUKjl7qG7-cqF-1tLL98Vk",
+              "company": "",
+              "city": "",
+              "last_login": "2023-05-08 08:46:55",
+              "created_at": "2023-04-18 11:38:55",
+              "updated_at": "2023-05-08 08:46:55",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 215,
+                "user_id": 27,
+                "project_id": 1000179,
+                "created_at": "2023-04-27 12:49:03",
+                "updated_at": "2023-04-27 12:49:03"
+              }
+            },
+            {
+              "id": 3,
+              "user_id_github": 0,
+              "username": "熊桑",
+              "department_id": null,
+              "nickname": "报上名字",
+              "email": "283782658@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/348/100/100.jpg?hmac=21Fi7az0dQn_wr3oMooUhjqemnDz5-5QzJ8sTN35gCY",
+              "company": "大鹏一日同风起",
+              "city": "",
+              "last_login": "2023-05-08 08:46:52",
+              "created_at": "2023-04-18 22:15:51",
+              "updated_at": "2023-05-08 08:46:52",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 238,
+                "user_id": 3,
+                "project_id": 1000179,
+                "created_at": "2023-04-27 16:22:33",
+                "updated_at": "2023-04-27 16:22:33"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000180,
+          "name": "哦耶",
+          "parent_id": 0,
+          "manager_id": 22,
+          "project_template_id": 3,
+          "progress": 0,
+          "cover": "/public/uploads/20230428020525_833972651.jpg",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 1,
+          "state": 1,
+          "intro": "ooooooooooooooooo",
+          "created_at": "2023-05-04 01:29:31",
+          "updated_at": "2023-04-30 17:11:38",
+          "creator": {
+            "username": "ysh_happy",
+            "id": 22,
+            "avatar": "https://fastly.picsum.photos/id/301/100/100.jpg?hmac=p-YZa0eopQZ1AmyQTNK3qTUtQ5BNpORoGMbhyrdbkvk"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 22,
+              "user_id_github": 0,
+              "username": "ysh_happy",
+              "department_id": null,
+              "nickname": "",
+              "email": "1733768492@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/301/100/100.jpg?hmac=p-YZa0eopQZ1AmyQTNK3qTUtQ5BNpORoGMbhyrdbkvk",
+              "company": "",
+              "city": "",
+              "last_login": "2023-05-08 08:47:12",
+              "created_at": "2023-04-17 22:27:47",
+              "updated_at": "2023-05-08 08:47:12",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 216,
+                "user_id": 22,
+                "project_id": 1000180,
+                "created_at": "2023-04-27 13:29:31",
+                "updated_at": "2023-04-27 13:29:31"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000192,
+          "name": "三三",
+          "parent_id": 0,
+          "manager_id": 5,
+          "project_template_id": 38,
+          "progress": 88,
+          "cover": "/public/uploads/20230428042632_584406391",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 1,
+          "state": 1,
+          "intro": "33333333333",
+          "created_at": "2023-04-27 14:43:35",
+          "updated_at": "2023-04-28 16:26:35",
+          "creator": {
+            "username": "小鱼",
+            "id": 5,
+            "avatar": "https://fastly.picsum.photos/id/675/100/100.jpg?hmac=CbKzkHuq9buOsinXZiYT_AO6cFQmIGYzVX9kRVHboU4"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 5,
+              "user_id_github": 0,
+              "username": "小鱼",
+              "department_id": 1000331,
+              "nickname": "一日看尽长安花",
+              "email": "2590697781@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/675/100/100.jpg?hmac=CbKzkHuq9buOsinXZiYT_AO6cFQmIGYzVX9kRVHboU4",
+              "company": "",
+              "city": "",
+              "last_login": "2023-05-09 14:41:05",
+              "created_at": "2023-04-19 10:17:05",
+              "updated_at": "2023-05-09 14:41:05",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 227,
+                "user_id": 5,
+                "project_id": 1000192,
+                "created_at": "2023-04-27 14:43:35",
+                "updated_at": "2023-04-27 14:43:35"
+              }
+            },
+            {
+              "id": 4,
+              "user_id_github": 0,
+              "username": "小谭",
+              "department_id": 1000336,
+              "nickname": "是谁还在写？",
+              "email": "1410157844@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/390/100/100.jpg?hmac=4YzDuS5ENs6VTfbLdpRGhSiRdYAO2BwK0gcuMsehngU",
+              "company": "阿斯顿",
+              "city": "加油，陌生人！！！",
+              "last_login": "2023-05-09 14:46:59",
+              "created_at": "2023-04-19 22:16:32",
+              "updated_at": "2023-05-10 22:38:17",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 302,
+                "user_id": 4,
+                "project_id": 1000192,
+                "created_at": "2023-04-28 14:07:04",
+                "updated_at": "2023-04-28 14:07:04"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000196,
+          "name": "测试上传test",
+          "parent_id": 0,
+          "manager_id": 25,
+          "project_template_id": 38,
+          "progress": 0,
+          "cover": "",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 0,
+          "state": 1,
+          "intro": "11111111",
+          "created_at": "2023-04-27 14:50:46",
+          "updated_at": "2023-05-05 15:04:45",
+          "creator": {
+            "username": "tony",
+            "id": 25,
+            "avatar": "https://fastly.picsum.photos/id/183/100/100.jpg?hmac=EbfFs3fByaetUI6FvC4Ne0HRhVpjnuaFyYVr9YIJzG0"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 25,
+              "user_id_github": 0,
+              "username": "tony",
+              "department_id": null,
+              "nickname": "",
+              "email": "2419439638@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/183/100/100.jpg?hmac=EbfFs3fByaetUI6FvC4Ne0HRhVpjnuaFyYVr9YIJzG0",
+              "company": "",
+              "city": "",
+              "last_login": "2023-05-08 08:46:55",
+              "created_at": "2023-04-17 10:38:40",
+              "updated_at": "2023-05-08 08:46:55",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 229,
+                "user_id": 25,
+                "project_id": 1000196,
+                "created_at": "2023-04-27 14:50:46",
+                "updated_at": "2023-04-27 14:50:46"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000197,
+          "name": "111213",
+          "parent_id": 0,
+          "manager_id": 27,
+          "project_template_id": 40,
+          "progress": 0,
+          "cover": "/public/uploads/20230427032034_778621140",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 0,
+          "state": 1,
+          "intro": "213123",
+          "created_at": "2023-04-27 15:20:43",
+          "updated_at": "2023-04-27 15:20:43",
+          "creator": {
+            "username": "cgy",
+            "id": 27,
+            "avatar": "https://fastly.picsum.photos/id/798/100/100.jpg?hmac=fUsZTZiMfWZCnqg-hcR2ICUKjl7qG7-cqF-1tLL98Vk"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 27,
+              "user_id_github": 0,
+              "username": "cgy",
+              "department_id": null,
+              "nickname": "",
+              "email": "859854649@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/798/100/100.jpg?hmac=fUsZTZiMfWZCnqg-hcR2ICUKjl7qG7-cqF-1tLL98Vk",
+              "company": "",
+              "city": "",
+              "last_login": "2023-05-08 08:46:55",
+              "created_at": "2023-04-18 11:38:55",
+              "updated_at": "2023-05-08 08:46:55",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 231,
+                "user_id": 27,
+                "project_id": 1000197,
+                "created_at": "2023-04-27 15:20:43",
+                "updated_at": "2023-04-27 15:20:43"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000198,
+          "name": "demmi",
+          "parent_id": 0,
+          "manager_id": 27,
+          "project_template_id": 17,
+          "progress": 0,
+          "cover": "/public/uploads/20230427032106_231756844",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 0,
+          "state": 1,
+          "intro": "2222",
+          "created_at": "2023-04-27 15:21:14",
+          "updated_at": "2023-04-27 15:21:14",
+          "creator": {
+            "username": "cgy",
+            "id": 27,
+            "avatar": "https://fastly.picsum.photos/id/798/100/100.jpg?hmac=fUsZTZiMfWZCnqg-hcR2ICUKjl7qG7-cqF-1tLL98Vk"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 27,
+              "user_id_github": 0,
+              "username": "cgy",
+              "department_id": null,
+              "nickname": "",
+              "email": "859854649@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/798/100/100.jpg?hmac=fUsZTZiMfWZCnqg-hcR2ICUKjl7qG7-cqF-1tLL98Vk",
+              "company": "",
+              "city": "",
+              "last_login": "2023-05-08 08:46:55",
+              "created_at": "2023-04-18 11:38:55",
+              "updated_at": "2023-05-08 08:46:55",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 232,
+                "user_id": 27,
+                "project_id": 1000198,
+                "created_at": "2023-04-27 15:21:14",
+                "updated_at": "2023-04-27 15:21:14"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000199,
+          "name": "35324234",
+          "parent_id": 0,
+          "manager_id": 27,
+          "project_template_id": 38,
+          "progress": 0,
+          "cover": "/public/uploads/20230427032709_404799515",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 0,
+          "state": 1,
+          "intro": "123213",
+          "created_at": "2023-04-27 15:27:22",
+          "updated_at": "2023-04-27 15:27:22",
+          "creator": {
+            "username": "cgy",
+            "id": 27,
+            "avatar": "https://fastly.picsum.photos/id/798/100/100.jpg?hmac=fUsZTZiMfWZCnqg-hcR2ICUKjl7qG7-cqF-1tLL98Vk"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 27,
+              "user_id_github": 0,
+              "username": "cgy",
+              "department_id": null,
+              "nickname": "",
+              "email": "859854649@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/798/100/100.jpg?hmac=fUsZTZiMfWZCnqg-hcR2ICUKjl7qG7-cqF-1tLL98Vk",
+              "company": "",
+              "city": "",
+              "last_login": "2023-05-08 08:46:55",
+              "created_at": "2023-04-18 11:38:55",
+              "updated_at": "2023-05-08 08:46:55",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 233,
+                "user_id": 27,
+                "project_id": 1000199,
+                "created_at": "2023-04-27 15:27:22",
+                "updated_at": "2023-04-27 15:27:22"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000201,
+          "name": "123123",
+          "parent_id": 0,
+          "manager_id": 28,
+          "project_template_id": 17,
+          "progress": 0,
+          "cover": "/public/uploads/20230427033327_940673042",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 0,
+          "state": 1,
+          "intro": "123213213",
+          "created_at": "2023-04-27 15:33:35",
+          "updated_at": "2023-04-28 14:48:08",
+          "creator": {
+            "username": "Billy",
+            "id": 28,
+            "avatar": "https://fastly.picsum.photos/id/658/100/100.jpg?hmac=D-BU2nW0fAduZtnUX5UIBFP6X-pQFJTQ22qXiamI-BM"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 28,
+              "user_id_github": 0,
+              "username": "Billy",
+              "department_id": null,
+              "nickname": "",
+              "email": "b2452372606@126.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/658/100/100.jpg?hmac=D-BU2nW0fAduZtnUX5UIBFP6X-pQFJTQ22qXiamI-BM",
+              "company": "",
+              "city": "",
+              "last_login": "2023-05-05 05:01:17",
+              "created_at": "2023-04-17 23:51:13",
+              "updated_at": "2023-05-08 08:37:24",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 235,
+                "user_id": 28,
+                "project_id": 1000201,
+                "created_at": "2023-04-27 15:33:35",
+                "updated_at": "2023-04-27 15:33:35"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000206,
+          "name": "demo222",
+          "parent_id": 0,
+          "manager_id": 28,
+          "project_template_id": 17,
+          "progress": 0,
+          "cover": "/public/uploads/20230427043725_711305026",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 0,
+          "state": 1,
+          "intro": "1111",
+          "created_at": "2023-04-28 04:37:55",
+          "updated_at": "2023-04-28 14:49:42",
+          "creator": {
+            "username": "Billy",
+            "id": 28,
+            "avatar": "https://fastly.picsum.photos/id/658/100/100.jpg?hmac=D-BU2nW0fAduZtnUX5UIBFP6X-pQFJTQ22qXiamI-BM"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 28,
+              "user_id_github": 0,
+              "username": "Billy",
+              "department_id": null,
+              "nickname": "",
+              "email": "b2452372606@126.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/658/100/100.jpg?hmac=D-BU2nW0fAduZtnUX5UIBFP6X-pQFJTQ22qXiamI-BM",
+              "company": "",
+              "city": "",
+              "last_login": "2023-05-05 05:01:17",
+              "created_at": "2023-04-17 23:51:13",
+              "updated_at": "2023-05-08 08:37:24",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 239,
+                "user_id": 28,
+                "project_id": 1000206,
+                "created_at": "2023-04-27 16:37:55",
+                "updated_at": "2023-04-27 16:37:55"
+              }
+            },
+            {
+              "id": 22,
+              "user_id_github": 0,
+              "username": "ysh_happy",
+              "department_id": null,
+              "nickname": "",
+              "email": "1733768492@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/301/100/100.jpg?hmac=p-YZa0eopQZ1AmyQTNK3qTUtQ5BNpORoGMbhyrdbkvk",
+              "company": "",
+              "city": "",
+              "last_login": "2023-05-08 08:47:12",
+              "created_at": "2023-04-17 22:27:47",
+              "updated_at": "2023-05-08 08:47:12",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 340,
+                "user_id": 22,
+                "project_id": 1000206,
+                "created_at": "2023-04-28 20:23:29",
+                "updated_at": "2023-04-28 20:23:29"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000224,
+          "name": "小米2",
+          "parent_id": 0,
+          "manager_id": 1,
+          "project_template_id": 1,
+          "progress": 0,
+          "cover": "",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 0,
+          "state": 1,
+          "intro": "",
+          "created_at": "2023-04-28 01:13:37",
+          "updated_at": "2023-04-28 01:13:37",
+          "creator": {
+            "username": "admin",
+            "id": 1,
+            "avatar": "https://qiniucdn.imfdj.top/avatar.jpg"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 21,
+              "user_id_github": 0,
+              "username": "梦满枝头月初盈",
+              "department_id": null,
+              "nickname": "阿道夫嗯嗯",
+              "email": "2212797341@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/186/100/100.jpg?hmac=ELhaIFLCR21gvh_LRy1Id2jrqQbcCvIbYi8rCPu0JhY",
+              "company": "额",
+              "city": "33呜呜",
+              "last_login": "2023-05-08 08:50:56",
+              "created_at": "2023-04-19 10:27:40",
+              "updated_at": "2023-05-08 08:50:56",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 257,
+                "user_id": 21,
+                "project_id": 1000224,
+                "created_at": "2023-04-28 01:13:37",
+                "updated_at": "2023-04-28 01:13:37"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000228,
+          "name": "2222",
+          "parent_id": 0,
+          "manager_id": 1,
+          "project_template_id": 1,
+          "progress": 0,
+          "cover": "",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 0,
+          "state": 1,
+          "intro": "",
+          "created_at": "2023-04-28 01:14:25",
+          "updated_at": "2023-04-28 01:14:25",
+          "creator": {
+            "username": "admin",
+            "id": 1,
+            "avatar": "https://qiniucdn.imfdj.top/avatar.jpg"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 21,
+              "user_id_github": 0,
+              "username": "梦满枝头月初盈",
+              "department_id": null,
+              "nickname": "阿道夫嗯嗯",
+              "email": "2212797341@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/186/100/100.jpg?hmac=ELhaIFLCR21gvh_LRy1Id2jrqQbcCvIbYi8rCPu0JhY",
+              "company": "额",
+              "city": "33呜呜",
+              "last_login": "2023-05-08 08:50:56",
+              "created_at": "2023-04-19 10:27:40",
+              "updated_at": "2023-05-08 08:50:56",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 258,
+                "user_id": 21,
+                "project_id": 1000228,
+                "created_at": "2023-04-28 01:14:25",
+                "updated_at": "2023-04-28 01:14:25"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000268,
+          "name": "110",
+          "parent_id": 0,
+          "manager_id": 1,
+          "project_template_id": 1,
+          "progress": 0,
+          "cover": "",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 0,
+          "state": 1,
+          "intro": "",
+          "created_at": "2023-04-28 09:18:21",
+          "updated_at": "2023-04-28 09:18:21",
+          "creator": {
+            "username": "admin",
+            "id": 1,
+            "avatar": "https://qiniucdn.imfdj.top/avatar.jpg"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 21,
+              "user_id_github": 0,
+              "username": "梦满枝头月初盈",
+              "department_id": null,
+              "nickname": "阿道夫嗯嗯",
+              "email": "2212797341@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/186/100/100.jpg?hmac=ELhaIFLCR21gvh_LRy1Id2jrqQbcCvIbYi8rCPu0JhY",
+              "company": "额",
+              "city": "33呜呜",
+              "last_login": "2023-05-08 08:50:56",
+              "created_at": "2023-04-19 10:27:40",
+              "updated_at": "2023-05-08 08:50:56",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 269,
+                "user_id": 21,
+                "project_id": 1000268,
+                "created_at": "2023-04-28 09:18:21",
+                "updated_at": "2023-04-28 09:18:21"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000272,
+          "name": "1101",
+          "parent_id": 0,
+          "manager_id": 1,
+          "project_template_id": 1,
+          "progress": 0,
+          "cover": "",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 0,
+          "state": 1,
+          "intro": "1111",
+          "created_at": "2023-04-28 09:19:35",
+          "updated_at": "2023-04-28 09:19:35",
+          "creator": {
+            "username": "admin",
+            "id": 1,
+            "avatar": "https://qiniucdn.imfdj.top/avatar.jpg"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 21,
+              "user_id_github": 0,
+              "username": "梦满枝头月初盈",
+              "department_id": null,
+              "nickname": "阿道夫嗯嗯",
+              "email": "2212797341@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/186/100/100.jpg?hmac=ELhaIFLCR21gvh_LRy1Id2jrqQbcCvIbYi8rCPu0JhY",
+              "company": "额",
+              "city": "33呜呜",
+              "last_login": "2023-05-08 08:50:56",
+              "created_at": "2023-04-19 10:27:40",
+              "updated_at": "2023-05-08 08:50:56",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 271,
+                "user_id": 21,
+                "project_id": 1000272,
+                "created_at": "2023-04-28 09:19:35",
+                "updated_at": "2023-04-28 09:19:35"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000277,
+          "name": "测试1111",
+          "parent_id": 0,
+          "manager_id": 1,
+          "project_template_id": 1,
+          "progress": 0,
+          "cover": "",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 0,
+          "state": 1,
+          "intro": "测试中",
+          "created_at": "2023-04-28 09:26:43",
+          "updated_at": "2023-04-28 09:26:43",
+          "creator": {
+            "username": "admin",
+            "id": 1,
+            "avatar": "https://qiniucdn.imfdj.top/avatar.jpg"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 21,
+              "user_id_github": 0,
+              "username": "梦满枝头月初盈",
+              "department_id": null,
+              "nickname": "阿道夫嗯嗯",
+              "email": "2212797341@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/186/100/100.jpg?hmac=ELhaIFLCR21gvh_LRy1Id2jrqQbcCvIbYi8rCPu0JhY",
+              "company": "额",
+              "city": "33呜呜",
+              "last_login": "2023-05-08 08:50:56",
+              "created_at": "2023-04-19 10:27:40",
+              "updated_at": "2023-05-08 08:50:56",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 274,
+                "user_id": 21,
+                "project_id": 1000277,
+                "created_at": "2023-04-28 09:26:43",
+                "updated_at": "2023-04-28 09:26:43"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000283,
+          "name": "测22222",
+          "parent_id": 0,
+          "manager_id": 1,
+          "project_template_id": 1,
+          "progress": 0,
+          "cover": "",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 0,
+          "state": 1,
+          "intro": "测试中",
+          "created_at": "2023-04-28 09:32:45",
+          "updated_at": "2023-04-28 09:32:45",
+          "creator": {
+            "username": "admin",
+            "id": 1,
+            "avatar": "https://qiniucdn.imfdj.top/avatar.jpg"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 21,
+              "user_id_github": 0,
+              "username": "梦满枝头月初盈",
+              "department_id": null,
+              "nickname": "阿道夫嗯嗯",
+              "email": "2212797341@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/186/100/100.jpg?hmac=ELhaIFLCR21gvh_LRy1Id2jrqQbcCvIbYi8rCPu0JhY",
+              "company": "额",
+              "city": "33呜呜",
+              "last_login": "2023-05-08 08:50:56",
+              "created_at": "2023-04-19 10:27:40",
+              "updated_at": "2023-05-08 08:50:56",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 277,
+                "user_id": 21,
+                "project_id": 1000283,
+                "created_at": "2023-04-28 09:32:45",
+                "updated_at": "2023-04-28 09:32:45"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000325,
+          "name": "水涨船高日式风格",
+          "parent_id": 0,
+          "manager_id": 3,
+          "project_template_id": 1,
+          "progress": 0,
+          "cover": "",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 1,
+          "state": 1,
+          "intro": "",
+          "created_at": "2023-04-29 03:36:15",
+          "updated_at": "2023-04-28 20:09:12",
+          "creator": {
+            "username": "熊桑",
+            "id": 3,
+            "avatar": "https://fastly.picsum.photos/id/348/100/100.jpg?hmac=21Fi7az0dQn_wr3oMooUhjqemnDz5-5QzJ8sTN35gCY"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 3,
+              "user_id_github": 0,
+              "username": "熊桑",
+              "department_id": null,
+              "nickname": "报上名字",
+              "email": "283782658@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/348/100/100.jpg?hmac=21Fi7az0dQn_wr3oMooUhjqemnDz5-5QzJ8sTN35gCY",
+              "company": "大鹏一日同风起",
+              "city": "",
+              "last_login": "2023-05-08 08:46:52",
+              "created_at": "2023-04-18 22:15:51",
+              "updated_at": "2023-05-08 08:46:52",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 311,
+                "user_id": 3,
+                "project_id": 1000325,
+                "created_at": "2023-04-28 15:36:15",
+                "updated_at": "2023-04-28 15:36:15"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "msg": "请求成功"
+  },
+  "_value": {
+    "code": 0,
+    "data": {
+      "count": 24,
+      "rows": [
+        {
+          "id": 1000064,
+          "name": "Beehive 新手引导",
+          "parent_id": 0,
+          "manager_id": 1,
+          "project_template_id": 18,
+          "progress": 6,
+          "cover": "https://i.picsum.photos/id/399/290/160.jpg?hmac=3xULt6wNyF5o6cyMNb9Whr8XKjwrGAGKErAeJyDjKVQ",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 1,
+          "state": 1,
+          "intro": "新手引导项目",
+          "created_at": "2021-09-13 01:37:50",
+          "updated_at": "2021-09-13 01:53:23",
+          "creator": {
+            "username": "admin",
+            "id": 1,
+            "avatar": "https://qiniucdn.imfdj.top/avatar.jpg"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 1,
+              "user_id_github": 0,
+              "username": "admin",
+              "department_id": null,
+              "nickname": "管理员",
+              "email": "11@qq.com",
+              "state": 1,
+              "phone": "18686868686",
+              "avatar": "https://qiniucdn.imfdj.top/avatar.jpg",
+              "company": "",
+              "city": "",
+              "last_login": "2022-09-27 11:14:13",
+              "created_at": "2020-07-13 10:23:03",
+              "updated_at": "2022-09-27 11:14:13",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 109,
+                "user_id": 1,
+                "project_id": 1000064,
+                "created_at": "2021-09-13 01:37:50",
+                "updated_at": "2021-09-13 01:37:50"
+              }
+            },
+            {
+              "id": 2,
+              "user_id_github": 0,
+              "username": "root",
+              "department_id": null,
+              "nickname": "请问",
+              "email": "9077@qq.com",
+              "state": 1,
+              "phone": "13993841298",
+              "avatar": "https://qiniucdn.imfdj.top/avatar.jpg",
+              "company": "一日看尽长安花",
+              "city": "武汉",
+              "last_login": "2021-09-17 13:26:30",
+              "created_at": "2020-07-26 03:54:59",
+              "updated_at": "2023-05-08 08:46:33",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 110,
+                "user_id": 2,
+                "project_id": 1000064,
+                "created_at": "2021-09-13 01:38:34",
+                "updated_at": "2021-09-13 01:38:34"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000068,
+          "name": "4-20",
+          "parent_id": 0,
+          "manager_id": 15,
+          "project_template_id": 27,
+          "progress": 36,
+          "cover": "/public/uploads/20230420052917_587426307.jpg",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 0,
+          "state": 1,
+          "intro": "haode",
+          "created_at": "2023-04-24 05:29:30",
+          "updated_at": "2023-05-04 18:31:16",
+          "creator": {
+            "username": "18869444143",
+            "id": 15,
+            "avatar": "https://fastly.picsum.photos/id/455/100/100.jpg?hmac=evc36T2tC-VSutrKiRyUxsXAI9gQ-pAgRO-YtHCN_K4"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 15,
+              "user_id_github": 0,
+              "username": "18869444143",
+              "department_id": null,
+              "nickname": "",
+              "email": "903709627@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/455/100/100.jpg?hmac=evc36T2tC-VSutrKiRyUxsXAI9gQ-pAgRO-YtHCN_K4",
+              "company": "",
+              "city": "",
+              "last_login": "2023-05-19 19:08:04",
+              "created_at": "2023-04-17 10:25:32",
+              "updated_at": "2023-05-19 19:08:04",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 114,
+                "user_id": 15,
+                "project_id": 1000068,
+                "created_at": "2023-04-20 17:29:30",
+                "updated_at": "2023-04-20 17:29:30"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000076,
+          "name": "小酒馆 | 消除通勤车厢中的烦闷",
+          "parent_id": 0,
+          "manager_id": 22,
+          "project_template_id": 3,
+          "progress": 70,
+          "cover": "/public/uploads/20230420131725_199104173.jpg",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 0,
+          "state": 1,
+          "intro": "适逢其会",
+          "created_at": "2023-04-28 01:20:44",
+          "updated_at": "2023-04-30 17:12:43",
+          "creator": {
+            "username": "ysh_happy",
+            "id": 22,
+            "avatar": "https://fastly.picsum.photos/id/301/100/100.jpg?hmac=p-YZa0eopQZ1AmyQTNK3qTUtQ5BNpORoGMbhyrdbkvk"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 22,
+              "user_id_github": 0,
+              "username": "ysh_happy",
+              "department_id": null,
+              "nickname": "",
+              "email": "1733768492@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/301/100/100.jpg?hmac=p-YZa0eopQZ1AmyQTNK3qTUtQ5BNpORoGMbhyrdbkvk",
+              "company": "",
+              "city": "",
+              "last_login": "2023-05-08 08:47:12",
+              "created_at": "2023-04-17 22:27:47",
+              "updated_at": "2023-05-08 08:47:12",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 123,
+                "user_id": 22,
+                "project_id": 1000076,
+                "created_at": "2023-04-21 01:20:44",
+                "updated_at": "2023-04-21 01:20:44"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000079,
+          "name": "aAA",
+          "parent_id": 0,
+          "manager_id": 15,
+          "project_template_id": 18,
+          "progress": 85,
+          "cover": "/public/uploads/20230422084102_620348546.jpg",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 0,
+          "state": 1,
+          "intro": "",
+          "created_at": "2023-04-27 20:41:06",
+          "updated_at": "2023-04-28 14:40:23",
+          "creator": {
+            "username": "18869444143",
+            "id": 15,
+            "avatar": "https://fastly.picsum.photos/id/455/100/100.jpg?hmac=evc36T2tC-VSutrKiRyUxsXAI9gQ-pAgRO-YtHCN_K4"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 15,
+              "user_id_github": 0,
+              "username": "18869444143",
+              "department_id": null,
+              "nickname": "",
+              "email": "903709627@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/455/100/100.jpg?hmac=evc36T2tC-VSutrKiRyUxsXAI9gQ-pAgRO-YtHCN_K4",
+              "company": "",
+              "city": "",
+              "last_login": "2023-05-19 19:08:04",
+              "created_at": "2023-04-17 10:25:32",
+              "updated_at": "2023-05-19 19:08:04",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 126,
+                "user_id": 15,
+                "project_id": 1000079,
+                "created_at": "2023-04-22 20:41:07",
+                "updated_at": "2023-04-22 20:41:07"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000106,
+          "name": "不良人",
+          "parent_id": 0,
+          "manager_id": 12,
+          "project_template_id": 1,
+          "progress": 0,
+          "cover": "/public/uploads/20230426023444_086709396.jpg",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 1,
+          "state": 1,
+          "intro": "",
+          "created_at": "2023-05-01 14:35:02",
+          "updated_at": "2023-04-28 19:21:19",
+          "creator": {
+            "username": "冰冰不爱吃香菜",
+            "id": 12,
+            "avatar": "https://fastly.picsum.photos/id/1082/100/100.jpg?hmac=0rTbHjwuEo-KpMp2E4aCa2JWXFT_FPh6cqJwhTxcZl4"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 12,
+              "user_id_github": 0,
+              "username": "冰冰不爱吃香菜",
+              "department_id": null,
+              "nickname": "",
+              "email": "2200411319@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/1082/100/100.jpg?hmac=0rTbHjwuEo-KpMp2E4aCa2JWXFT_FPh6cqJwhTxcZl4",
+              "company": "",
+              "city": "",
+              "last_login": "2023-05-18 01:56:56",
+              "created_at": "2023-04-19 10:18:15",
+              "updated_at": "2023-05-18 01:56:56",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 148,
+                "user_id": 12,
+                "project_id": 1000106,
+                "created_at": "2023-04-26 14:35:02",
+                "updated_at": "2023-04-26 14:35:02"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000121,
+          "name": "7897979797979797987979797979797987987979798797987",
+          "parent_id": 0,
+          "manager_id": 10,
+          "project_template_id": 1,
+          "progress": 1,
+          "cover": "/public/uploads/20230426063121_652708382.jpg",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 0,
+          "state": 1,
+          "intro": "79879878979897987979797979878979797979797979797798797987979879987979",
+          "created_at": "2023-04-27 18:31:46",
+          "updated_at": "2023-04-27 11:02:58",
+          "creator": {
+            "username": "HeCY",
+            "id": 10,
+            "avatar": "https://fastly.picsum.photos/id/604/100/100.jpg?hmac=oV7jhSL2Jv9PhlC8zJYg73ezAoN6kCwsd0ONe86J6PY"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 10,
+              "user_id_github": 0,
+              "username": "HeCY",
+              "department_id": 1000336,
+              "nickname": "在昵称这里写你的名字？",
+              "email": "2684934989@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/604/100/100.jpg?hmac=oV7jhSL2Jv9PhlC8zJYg73ezAoN6kCwsd0ONe86J6PY",
+              "company": "",
+              "city": "",
+              "last_login": "2023-05-08 08:37:20",
+              "created_at": "2023-04-17 10:17:54",
+              "updated_at": "2023-05-10 22:38:08",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 163,
+                "user_id": 10,
+                "project_id": 1000121,
+                "created_at": "2023-04-26 18:31:46",
+                "updated_at": "2023-04-26 18:31:46"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000131,
+          "name": "啊啊啊",
+          "parent_id": 0,
+          "manager_id": 15,
+          "project_template_id": 17,
+          "progress": 0,
+          "cover": "/public/uploads/20230426074230_515765254.jpg",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 0,
+          "state": 1,
+          "intro": "啊啊啊",
+          "created_at": "2023-04-28 07:42:46",
+          "updated_at": "2023-04-28 14:11:16",
+          "creator": {
+            "username": "18869444143",
+            "id": 15,
+            "avatar": "https://fastly.picsum.photos/id/455/100/100.jpg?hmac=evc36T2tC-VSutrKiRyUxsXAI9gQ-pAgRO-YtHCN_K4"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 15,
+              "user_id_github": 0,
+              "username": "18869444143",
+              "department_id": null,
+              "nickname": "",
+              "email": "903709627@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/455/100/100.jpg?hmac=evc36T2tC-VSutrKiRyUxsXAI9gQ-pAgRO-YtHCN_K4",
+              "company": "",
+              "city": "",
+              "last_login": "2023-05-19 19:08:04",
+              "created_at": "2023-04-17 10:25:32",
+              "updated_at": "2023-05-19 19:08:04",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 173,
+                "user_id": 15,
+                "project_id": 1000131,
+                "created_at": "2023-04-26 19:42:46",
+                "updated_at": "2023-04-26 19:42:46"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000163,
+          "name": "dw22082",
+          "parent_id": 0,
+          "manager_id": 10,
+          "project_template_id": 1,
+          "progress": 1,
+          "cover": "/public/uploads/20230426225924_886023117.jpg",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 0,
+          "state": 1,
+          "intro": "77777777888888889999999991111111222222233333333789797979797979",
+          "created_at": "2023-04-28 11:00:21",
+          "updated_at": "2023-04-27 14:17:31",
+          "creator": {
+            "username": "HeCY",
+            "id": 10,
+            "avatar": "https://fastly.picsum.photos/id/604/100/100.jpg?hmac=oV7jhSL2Jv9PhlC8zJYg73ezAoN6kCwsd0ONe86J6PY"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 10,
+              "user_id_github": 0,
+              "username": "HeCY",
+              "department_id": 1000336,
+              "nickname": "在昵称这里写你的名字？",
+              "email": "2684934989@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/604/100/100.jpg?hmac=oV7jhSL2Jv9PhlC8zJYg73ezAoN6kCwsd0ONe86J6PY",
+              "company": "",
+              "city": "",
+              "last_login": "2023-05-08 08:37:20",
+              "created_at": "2023-04-17 10:17:54",
+              "updated_at": "2023-05-10 22:38:08",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 199,
+                "user_id": 10,
+                "project_id": 1000163,
+                "created_at": "2023-04-27 11:00:21",
+                "updated_at": "2023-04-27 11:00:21"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000179,
+          "name": "pander",
+          "parent_id": 0,
+          "manager_id": 27,
+          "project_template_id": 38,
+          "progress": 80,
+          "cover": "/public/uploads/20230427004852_572082287.jpg",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 0,
+          "state": 1,
+          "intro": "7788",
+          "created_at": "2023-04-27 12:49:03",
+          "updated_at": "2023-04-28 17:06:35",
+          "creator": {
+            "username": "cgy",
+            "id": 27,
+            "avatar": "https://fastly.picsum.photos/id/798/100/100.jpg?hmac=fUsZTZiMfWZCnqg-hcR2ICUKjl7qG7-cqF-1tLL98Vk"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 27,
+              "user_id_github": 0,
+              "username": "cgy",
+              "department_id": null,
+              "nickname": "",
+              "email": "859854649@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/798/100/100.jpg?hmac=fUsZTZiMfWZCnqg-hcR2ICUKjl7qG7-cqF-1tLL98Vk",
+              "company": "",
+              "city": "",
+              "last_login": "2023-05-08 08:46:55",
+              "created_at": "2023-04-18 11:38:55",
+              "updated_at": "2023-05-08 08:46:55",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 215,
+                "user_id": 27,
+                "project_id": 1000179,
+                "created_at": "2023-04-27 12:49:03",
+                "updated_at": "2023-04-27 12:49:03"
+              }
+            },
+            {
+              "id": 3,
+              "user_id_github": 0,
+              "username": "熊桑",
+              "department_id": null,
+              "nickname": "报上名字",
+              "email": "283782658@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/348/100/100.jpg?hmac=21Fi7az0dQn_wr3oMooUhjqemnDz5-5QzJ8sTN35gCY",
+              "company": "大鹏一日同风起",
+              "city": "",
+              "last_login": "2023-05-08 08:46:52",
+              "created_at": "2023-04-18 22:15:51",
+              "updated_at": "2023-05-08 08:46:52",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 238,
+                "user_id": 3,
+                "project_id": 1000179,
+                "created_at": "2023-04-27 16:22:33",
+                "updated_at": "2023-04-27 16:22:33"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000180,
+          "name": "哦耶",
+          "parent_id": 0,
+          "manager_id": 22,
+          "project_template_id": 3,
+          "progress": 0,
+          "cover": "/public/uploads/20230428020525_833972651.jpg",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 1,
+          "state": 1,
+          "intro": "ooooooooooooooooo",
+          "created_at": "2023-05-04 01:29:31",
+          "updated_at": "2023-04-30 17:11:38",
+          "creator": {
+            "username": "ysh_happy",
+            "id": 22,
+            "avatar": "https://fastly.picsum.photos/id/301/100/100.jpg?hmac=p-YZa0eopQZ1AmyQTNK3qTUtQ5BNpORoGMbhyrdbkvk"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 22,
+              "user_id_github": 0,
+              "username": "ysh_happy",
+              "department_id": null,
+              "nickname": "",
+              "email": "1733768492@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/301/100/100.jpg?hmac=p-YZa0eopQZ1AmyQTNK3qTUtQ5BNpORoGMbhyrdbkvk",
+              "company": "",
+              "city": "",
+              "last_login": "2023-05-08 08:47:12",
+              "created_at": "2023-04-17 22:27:47",
+              "updated_at": "2023-05-08 08:47:12",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 216,
+                "user_id": 22,
+                "project_id": 1000180,
+                "created_at": "2023-04-27 13:29:31",
+                "updated_at": "2023-04-27 13:29:31"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000192,
+          "name": "三三",
+          "parent_id": 0,
+          "manager_id": 5,
+          "project_template_id": 38,
+          "progress": 88,
+          "cover": "/public/uploads/20230428042632_584406391",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 1,
+          "state": 1,
+          "intro": "33333333333",
+          "created_at": "2023-04-27 14:43:35",
+          "updated_at": "2023-04-28 16:26:35",
+          "creator": {
+            "username": "小鱼",
+            "id": 5,
+            "avatar": "https://fastly.picsum.photos/id/675/100/100.jpg?hmac=CbKzkHuq9buOsinXZiYT_AO6cFQmIGYzVX9kRVHboU4"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 5,
+              "user_id_github": 0,
+              "username": "小鱼",
+              "department_id": 1000331,
+              "nickname": "一日看尽长安花",
+              "email": "2590697781@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/675/100/100.jpg?hmac=CbKzkHuq9buOsinXZiYT_AO6cFQmIGYzVX9kRVHboU4",
+              "company": "",
+              "city": "",
+              "last_login": "2023-05-09 14:41:05",
+              "created_at": "2023-04-19 10:17:05",
+              "updated_at": "2023-05-09 14:41:05",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 227,
+                "user_id": 5,
+                "project_id": 1000192,
+                "created_at": "2023-04-27 14:43:35",
+                "updated_at": "2023-04-27 14:43:35"
+              }
+            },
+            {
+              "id": 4,
+              "user_id_github": 0,
+              "username": "小谭",
+              "department_id": 1000336,
+              "nickname": "是谁还在写？",
+              "email": "1410157844@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/390/100/100.jpg?hmac=4YzDuS5ENs6VTfbLdpRGhSiRdYAO2BwK0gcuMsehngU",
+              "company": "阿斯顿",
+              "city": "加油，陌生人！！！",
+              "last_login": "2023-05-09 14:46:59",
+              "created_at": "2023-04-19 22:16:32",
+              "updated_at": "2023-05-10 22:38:17",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 302,
+                "user_id": 4,
+                "project_id": 1000192,
+                "created_at": "2023-04-28 14:07:04",
+                "updated_at": "2023-04-28 14:07:04"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000196,
+          "name": "测试上传test",
+          "parent_id": 0,
+          "manager_id": 25,
+          "project_template_id": 38,
+          "progress": 0,
+          "cover": "",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 0,
+          "state": 1,
+          "intro": "11111111",
+          "created_at": "2023-04-27 14:50:46",
+          "updated_at": "2023-05-05 15:04:45",
+          "creator": {
+            "username": "tony",
+            "id": 25,
+            "avatar": "https://fastly.picsum.photos/id/183/100/100.jpg?hmac=EbfFs3fByaetUI6FvC4Ne0HRhVpjnuaFyYVr9YIJzG0"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 25,
+              "user_id_github": 0,
+              "username": "tony",
+              "department_id": null,
+              "nickname": "",
+              "email": "2419439638@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/183/100/100.jpg?hmac=EbfFs3fByaetUI6FvC4Ne0HRhVpjnuaFyYVr9YIJzG0",
+              "company": "",
+              "city": "",
+              "last_login": "2023-05-08 08:46:55",
+              "created_at": "2023-04-17 10:38:40",
+              "updated_at": "2023-05-08 08:46:55",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 229,
+                "user_id": 25,
+                "project_id": 1000196,
+                "created_at": "2023-04-27 14:50:46",
+                "updated_at": "2023-04-27 14:50:46"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000197,
+          "name": "111213",
+          "parent_id": 0,
+          "manager_id": 27,
+          "project_template_id": 40,
+          "progress": 0,
+          "cover": "/public/uploads/20230427032034_778621140",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 0,
+          "state": 1,
+          "intro": "213123",
+          "created_at": "2023-04-27 15:20:43",
+          "updated_at": "2023-04-27 15:20:43",
+          "creator": {
+            "username": "cgy",
+            "id": 27,
+            "avatar": "https://fastly.picsum.photos/id/798/100/100.jpg?hmac=fUsZTZiMfWZCnqg-hcR2ICUKjl7qG7-cqF-1tLL98Vk"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 27,
+              "user_id_github": 0,
+              "username": "cgy",
+              "department_id": null,
+              "nickname": "",
+              "email": "859854649@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/798/100/100.jpg?hmac=fUsZTZiMfWZCnqg-hcR2ICUKjl7qG7-cqF-1tLL98Vk",
+              "company": "",
+              "city": "",
+              "last_login": "2023-05-08 08:46:55",
+              "created_at": "2023-04-18 11:38:55",
+              "updated_at": "2023-05-08 08:46:55",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 231,
+                "user_id": 27,
+                "project_id": 1000197,
+                "created_at": "2023-04-27 15:20:43",
+                "updated_at": "2023-04-27 15:20:43"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000198,
+          "name": "demmi",
+          "parent_id": 0,
+          "manager_id": 27,
+          "project_template_id": 17,
+          "progress": 0,
+          "cover": "/public/uploads/20230427032106_231756844",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 0,
+          "state": 1,
+          "intro": "2222",
+          "created_at": "2023-04-27 15:21:14",
+          "updated_at": "2023-04-27 15:21:14",
+          "creator": {
+            "username": "cgy",
+            "id": 27,
+            "avatar": "https://fastly.picsum.photos/id/798/100/100.jpg?hmac=fUsZTZiMfWZCnqg-hcR2ICUKjl7qG7-cqF-1tLL98Vk"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 27,
+              "user_id_github": 0,
+              "username": "cgy",
+              "department_id": null,
+              "nickname": "",
+              "email": "859854649@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/798/100/100.jpg?hmac=fUsZTZiMfWZCnqg-hcR2ICUKjl7qG7-cqF-1tLL98Vk",
+              "company": "",
+              "city": "",
+              "last_login": "2023-05-08 08:46:55",
+              "created_at": "2023-04-18 11:38:55",
+              "updated_at": "2023-05-08 08:46:55",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 232,
+                "user_id": 27,
+                "project_id": 1000198,
+                "created_at": "2023-04-27 15:21:14",
+                "updated_at": "2023-04-27 15:21:14"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000199,
+          "name": "35324234",
+          "parent_id": 0,
+          "manager_id": 27,
+          "project_template_id": 38,
+          "progress": 0,
+          "cover": "/public/uploads/20230427032709_404799515",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 0,
+          "state": 1,
+          "intro": "123213",
+          "created_at": "2023-04-27 15:27:22",
+          "updated_at": "2023-04-27 15:27:22",
+          "creator": {
+            "username": "cgy",
+            "id": 27,
+            "avatar": "https://fastly.picsum.photos/id/798/100/100.jpg?hmac=fUsZTZiMfWZCnqg-hcR2ICUKjl7qG7-cqF-1tLL98Vk"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 27,
+              "user_id_github": 0,
+              "username": "cgy",
+              "department_id": null,
+              "nickname": "",
+              "email": "859854649@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/798/100/100.jpg?hmac=fUsZTZiMfWZCnqg-hcR2ICUKjl7qG7-cqF-1tLL98Vk",
+              "company": "",
+              "city": "",
+              "last_login": "2023-05-08 08:46:55",
+              "created_at": "2023-04-18 11:38:55",
+              "updated_at": "2023-05-08 08:46:55",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 233,
+                "user_id": 27,
+                "project_id": 1000199,
+                "created_at": "2023-04-27 15:27:22",
+                "updated_at": "2023-04-27 15:27:22"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000201,
+          "name": "123123",
+          "parent_id": 0,
+          "manager_id": 28,
+          "project_template_id": 17,
+          "progress": 0,
+          "cover": "/public/uploads/20230427033327_940673042",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 0,
+          "state": 1,
+          "intro": "123213213",
+          "created_at": "2023-04-27 15:33:35",
+          "updated_at": "2023-04-28 14:48:08",
+          "creator": {
+            "username": "Billy",
+            "id": 28,
+            "avatar": "https://fastly.picsum.photos/id/658/100/100.jpg?hmac=D-BU2nW0fAduZtnUX5UIBFP6X-pQFJTQ22qXiamI-BM"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 28,
+              "user_id_github": 0,
+              "username": "Billy",
+              "department_id": null,
+              "nickname": "",
+              "email": "b2452372606@126.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/658/100/100.jpg?hmac=D-BU2nW0fAduZtnUX5UIBFP6X-pQFJTQ22qXiamI-BM",
+              "company": "",
+              "city": "",
+              "last_login": "2023-05-05 05:01:17",
+              "created_at": "2023-04-17 23:51:13",
+              "updated_at": "2023-05-08 08:37:24",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 235,
+                "user_id": 28,
+                "project_id": 1000201,
+                "created_at": "2023-04-27 15:33:35",
+                "updated_at": "2023-04-27 15:33:35"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000206,
+          "name": "demo222",
+          "parent_id": 0,
+          "manager_id": 28,
+          "project_template_id": 17,
+          "progress": 0,
+          "cover": "/public/uploads/20230427043725_711305026",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 0,
+          "state": 1,
+          "intro": "1111",
+          "created_at": "2023-04-28 04:37:55",
+          "updated_at": "2023-04-28 14:49:42",
+          "creator": {
+            "username": "Billy",
+            "id": 28,
+            "avatar": "https://fastly.picsum.photos/id/658/100/100.jpg?hmac=D-BU2nW0fAduZtnUX5UIBFP6X-pQFJTQ22qXiamI-BM"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 28,
+              "user_id_github": 0,
+              "username": "Billy",
+              "department_id": null,
+              "nickname": "",
+              "email": "b2452372606@126.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/658/100/100.jpg?hmac=D-BU2nW0fAduZtnUX5UIBFP6X-pQFJTQ22qXiamI-BM",
+              "company": "",
+              "city": "",
+              "last_login": "2023-05-05 05:01:17",
+              "created_at": "2023-04-17 23:51:13",
+              "updated_at": "2023-05-08 08:37:24",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 239,
+                "user_id": 28,
+                "project_id": 1000206,
+                "created_at": "2023-04-27 16:37:55",
+                "updated_at": "2023-04-27 16:37:55"
+              }
+            },
+            {
+              "id": 22,
+              "user_id_github": 0,
+              "username": "ysh_happy",
+              "department_id": null,
+              "nickname": "",
+              "email": "1733768492@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/301/100/100.jpg?hmac=p-YZa0eopQZ1AmyQTNK3qTUtQ5BNpORoGMbhyrdbkvk",
+              "company": "",
+              "city": "",
+              "last_login": "2023-05-08 08:47:12",
+              "created_at": "2023-04-17 22:27:47",
+              "updated_at": "2023-05-08 08:47:12",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 340,
+                "user_id": 22,
+                "project_id": 1000206,
+                "created_at": "2023-04-28 20:23:29",
+                "updated_at": "2023-04-28 20:23:29"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000224,
+          "name": "小米2",
+          "parent_id": 0,
+          "manager_id": 1,
+          "project_template_id": 1,
+          "progress": 0,
+          "cover": "",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 0,
+          "state": 1,
+          "intro": "",
+          "created_at": "2023-04-28 01:13:37",
+          "updated_at": "2023-04-28 01:13:37",
+          "creator": {
+            "username": "admin",
+            "id": 1,
+            "avatar": "https://qiniucdn.imfdj.top/avatar.jpg"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 21,
+              "user_id_github": 0,
+              "username": "梦满枝头月初盈",
+              "department_id": null,
+              "nickname": "阿道夫嗯嗯",
+              "email": "2212797341@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/186/100/100.jpg?hmac=ELhaIFLCR21gvh_LRy1Id2jrqQbcCvIbYi8rCPu0JhY",
+              "company": "额",
+              "city": "33呜呜",
+              "last_login": "2023-05-08 08:50:56",
+              "created_at": "2023-04-19 10:27:40",
+              "updated_at": "2023-05-08 08:50:56",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 257,
+                "user_id": 21,
+                "project_id": 1000224,
+                "created_at": "2023-04-28 01:13:37",
+                "updated_at": "2023-04-28 01:13:37"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000228,
+          "name": "2222",
+          "parent_id": 0,
+          "manager_id": 1,
+          "project_template_id": 1,
+          "progress": 0,
+          "cover": "",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 0,
+          "state": 1,
+          "intro": "",
+          "created_at": "2023-04-28 01:14:25",
+          "updated_at": "2023-04-28 01:14:25",
+          "creator": {
+            "username": "admin",
+            "id": 1,
+            "avatar": "https://qiniucdn.imfdj.top/avatar.jpg"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 21,
+              "user_id_github": 0,
+              "username": "梦满枝头月初盈",
+              "department_id": null,
+              "nickname": "阿道夫嗯嗯",
+              "email": "2212797341@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/186/100/100.jpg?hmac=ELhaIFLCR21gvh_LRy1Id2jrqQbcCvIbYi8rCPu0JhY",
+              "company": "额",
+              "city": "33呜呜",
+              "last_login": "2023-05-08 08:50:56",
+              "created_at": "2023-04-19 10:27:40",
+              "updated_at": "2023-05-08 08:50:56",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 258,
+                "user_id": 21,
+                "project_id": 1000228,
+                "created_at": "2023-04-28 01:14:25",
+                "updated_at": "2023-04-28 01:14:25"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000268,
+          "name": "110",
+          "parent_id": 0,
+          "manager_id": 1,
+          "project_template_id": 1,
+          "progress": 0,
+          "cover": "",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 0,
+          "state": 1,
+          "intro": "",
+          "created_at": "2023-04-28 09:18:21",
+          "updated_at": "2023-04-28 09:18:21",
+          "creator": {
+            "username": "admin",
+            "id": 1,
+            "avatar": "https://qiniucdn.imfdj.top/avatar.jpg"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 21,
+              "user_id_github": 0,
+              "username": "梦满枝头月初盈",
+              "department_id": null,
+              "nickname": "阿道夫嗯嗯",
+              "email": "2212797341@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/186/100/100.jpg?hmac=ELhaIFLCR21gvh_LRy1Id2jrqQbcCvIbYi8rCPu0JhY",
+              "company": "额",
+              "city": "33呜呜",
+              "last_login": "2023-05-08 08:50:56",
+              "created_at": "2023-04-19 10:27:40",
+              "updated_at": "2023-05-08 08:50:56",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 269,
+                "user_id": 21,
+                "project_id": 1000268,
+                "created_at": "2023-04-28 09:18:21",
+                "updated_at": "2023-04-28 09:18:21"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000272,
+          "name": "1101",
+          "parent_id": 0,
+          "manager_id": 1,
+          "project_template_id": 1,
+          "progress": 0,
+          "cover": "",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 0,
+          "state": 1,
+          "intro": "1111",
+          "created_at": "2023-04-28 09:19:35",
+          "updated_at": "2023-04-28 09:19:35",
+          "creator": {
+            "username": "admin",
+            "id": 1,
+            "avatar": "https://qiniucdn.imfdj.top/avatar.jpg"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 21,
+              "user_id_github": 0,
+              "username": "梦满枝头月初盈",
+              "department_id": null,
+              "nickname": "阿道夫嗯嗯",
+              "email": "2212797341@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/186/100/100.jpg?hmac=ELhaIFLCR21gvh_LRy1Id2jrqQbcCvIbYi8rCPu0JhY",
+              "company": "额",
+              "city": "33呜呜",
+              "last_login": "2023-05-08 08:50:56",
+              "created_at": "2023-04-19 10:27:40",
+              "updated_at": "2023-05-08 08:50:56",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 271,
+                "user_id": 21,
+                "project_id": 1000272,
+                "created_at": "2023-04-28 09:19:35",
+                "updated_at": "2023-04-28 09:19:35"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000277,
+          "name": "测试1111",
+          "parent_id": 0,
+          "manager_id": 1,
+          "project_template_id": 1,
+          "progress": 0,
+          "cover": "",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 0,
+          "state": 1,
+          "intro": "测试中",
+          "created_at": "2023-04-28 09:26:43",
+          "updated_at": "2023-04-28 09:26:43",
+          "creator": {
+            "username": "admin",
+            "id": 1,
+            "avatar": "https://qiniucdn.imfdj.top/avatar.jpg"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 21,
+              "user_id_github": 0,
+              "username": "梦满枝头月初盈",
+              "department_id": null,
+              "nickname": "阿道夫嗯嗯",
+              "email": "2212797341@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/186/100/100.jpg?hmac=ELhaIFLCR21gvh_LRy1Id2jrqQbcCvIbYi8rCPu0JhY",
+              "company": "额",
+              "city": "33呜呜",
+              "last_login": "2023-05-08 08:50:56",
+              "created_at": "2023-04-19 10:27:40",
+              "updated_at": "2023-05-08 08:50:56",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 274,
+                "user_id": 21,
+                "project_id": 1000277,
+                "created_at": "2023-04-28 09:26:43",
+                "updated_at": "2023-04-28 09:26:43"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000283,
+          "name": "测22222",
+          "parent_id": 0,
+          "manager_id": 1,
+          "project_template_id": 1,
+          "progress": 0,
+          "cover": "",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 0,
+          "state": 1,
+          "intro": "测试中",
+          "created_at": "2023-04-28 09:32:45",
+          "updated_at": "2023-04-28 09:32:45",
+          "creator": {
+            "username": "admin",
+            "id": 1,
+            "avatar": "https://qiniucdn.imfdj.top/avatar.jpg"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 21,
+              "user_id_github": 0,
+              "username": "梦满枝头月初盈",
+              "department_id": null,
+              "nickname": "阿道夫嗯嗯",
+              "email": "2212797341@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/186/100/100.jpg?hmac=ELhaIFLCR21gvh_LRy1Id2jrqQbcCvIbYi8rCPu0JhY",
+              "company": "额",
+              "city": "33呜呜",
+              "last_login": "2023-05-08 08:50:56",
+              "created_at": "2023-04-19 10:27:40",
+              "updated_at": "2023-05-08 08:50:56",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 277,
+                "user_id": 21,
+                "project_id": 1000283,
+                "created_at": "2023-04-28 09:32:45",
+                "updated_at": "2023-04-28 09:32:45"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1000325,
+          "name": "水涨船高日式风格",
+          "parent_id": 0,
+          "manager_id": 3,
+          "project_template_id": 1,
+          "progress": 0,
+          "cover": "",
+          "is_recycle": 0,
+          "is_archived": 0,
+          "is_private": 0,
+          "is_auto_progress": 1,
+          "state": 1,
+          "intro": "",
+          "created_at": "2023-04-29 03:36:15",
+          "updated_at": "2023-04-28 20:09:12",
+          "creator": {
+            "username": "熊桑",
+            "id": 3,
+            "avatar": "https://fastly.picsum.photos/id/348/100/100.jpg?hmac=21Fi7az0dQn_wr3oMooUhjqemnDz5-5QzJ8sTN35gCY"
+          },
+          "collector": [],
+          "member": [
+            {
+              "id": 3,
+              "user_id_github": 0,
+              "username": "熊桑",
+              "department_id": null,
+              "nickname": "报上名字",
+              "email": "283782658@qq.com",
+              "state": 1,
+              "phone": "",
+              "avatar": "https://fastly.picsum.photos/id/348/100/100.jpg?hmac=21Fi7az0dQn_wr3oMooUhjqemnDz5-5QzJ8sTN35gCY",
+              "company": "大鹏一日同风起",
+              "city": "",
+              "last_login": "2023-05-08 08:46:52",
+              "created_at": "2023-04-18 22:15:51",
+              "updated_at": "2023-05-08 08:46:52",
+              "deleted_at": null,
+              "user_projects": {
+                "id": 311,
+                "user_id": 3,
+                "project_id": 1000325,
+                "created_at": "2023-04-28 15:36:15",
+                "updated_at": "2023-04-28 15:36:15"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "msg": "请求成功"
+  }
+}
