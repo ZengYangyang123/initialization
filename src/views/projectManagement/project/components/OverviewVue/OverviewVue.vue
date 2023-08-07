@@ -50,17 +50,21 @@
     >
       <div class="py-[12px] mb-[10px] flex">
         <div class="mr-[16px]">
-          <img src="" alt="" class="w-[50px] h-[50px] rounded-[4px]" />
+          <img
+            src="http://api.cc0820.top:1024/public/uploads/20230806225951_939219610.png"
+            alt=""
+            class="w-[50px] h-[50px] rounded-[4px]"
+          />
         </div>
         <div class="w-[219px]" style="line-height: 22px">
-          <p class="mb-[4px] overflow-hidden">活的数据</p>
-          <p>活的数据</p>
+          <p class="mb-[4px] overflow-hidden">我的项目</p>
+          <p class="text-[12px]">项目描述</p>
         </div>
       </div>
       <div class="mb-[20px]">
         <a-tooltip class="text-sm w-full">
           <template #title> 点击即可编辑 </template>
-          <p class="w-full">活的数据</p>
+          <p class="w-full">家人们谁懂啊</p>
         </a-tooltip>
       </div>
       <div>
