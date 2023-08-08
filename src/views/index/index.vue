@@ -59,6 +59,11 @@
             style="border: 1px solid #f9f9f9"
             v-for="item in paginatedData"
             :key="item.id"
+              @click="
+              () => {
+                router.push(`/projectManagement/project/${item.id}`);
+              }
+            "
           >
             <!-- 右上角公开 -->
             <div data-v-61d48c6e="" class="public-tip">公开</div>
@@ -423,6 +428,7 @@
 <script setup lang="ts">
 import usePagination from "../../hooks/usePagination";
 import indexmenu from "../HeadNavigation.vue";
+import router from "@/router";
 interface OngoingProjectRow {
   id: number;
   name: string;
